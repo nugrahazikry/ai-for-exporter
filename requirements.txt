@@ -1,0 +1,14 @@
+streamlit==1.39.0
+Pillow==10.0.0
+comtradeapicall==1.2.1
+google-ai-generativelanguage==0.6.15
+google-genai==1.18.0
+google-generativeai==0.8.5
+pandas==2.2.3
+numpy==1.26.4
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+granian==1.0.2
+pydantic==2.11.7
+openpyxl==3.1.5
+psycopg2==2.9.10
